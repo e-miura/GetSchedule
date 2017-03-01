@@ -5,7 +5,7 @@ To get outlook schedule by c# (2015)
 - 予めschedule.xlsxを用意する。<br>
 - エクセルレイアウト等の詳細は.iniに設定する。
 - エクセル編集用使用ライブラリ
-1. ClosedXML版
+1. ClosedXML版<br>
    ※Visual Studio ツール → Nugetパッケージマネージャーからライブラリ取得
-2. Microsoft.Office.Interop.Excel版
+2. Microsoft.Office.Interop.Excel版<br>
    ※COMライブラリ
